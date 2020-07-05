@@ -2,7 +2,7 @@
 
 Há dois anos atrás, finalizei um curso de Engenharia Econômica pela plataforma [Veduca](https://play.veduca.org/curso-online-engenharia-economica), onde foi  apresentado os principais métodos de análises de investimentos/projetos do mercado e vários exemplos de suas aplicações.
 
-Recentemente tive a ideia de apresentar os conhecimentos obtidos no curso em notebooks utilizando Python. Dessa forma, é possível unir o melhor dos mundos entre análise financeira utilizando uma linguagem de programação para análise de dados. 
+Então, tive a ideia de apresentar os conhecimentos obtidos no curso em notebooks utilizando Python. Dessa forma, é possível unir o melhor dos mundos entre análise financeira utilizando uma linguagem de programação para análise de dados. 
 
 Os temas contidos nos notebooks foram divididos de acordo com os capítulos do cursos.Foram utilizados os exemplos tanto do curso quanto de sites externos.
 
