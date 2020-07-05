@@ -17,6 +17,6 @@ Os temas contidos nos notebooks foram divididos de acordo com os capítulos do c
  7. [Ferramentas de Análise de Investimentos](https://github.com/levisouuza/engenharia-economica-python/blob/master/7.Ferramentas%20de%20Aval.Investimentos.ipynb)
  8. [Opções Reais](https://github.com/levisouuza/engenharia-economica-python/blob/master/8.Op%C3%A7%C3%B5es%20Reais.ipynb)
  9. [Estimativa de Custo de Capital](https://github.com/levisouuza/engenharia-economica-python/blob/master/9.Estimativa%20do%20custo%20de%20capital.ipynb)
- 10.[Estimativa de Custo de Capital II](https://github.com/levisouuza/engenharia-economica-python/blob/master/10.Estimativa%20do%20custo%20de%20capital.ipynb)
+ 10. [Estimativa de Custo de Capital II](https://github.com/levisouuza/engenharia-economica-python/blob/master/10.Estimativa%20do%20custo%20de%20capital.ipynb)
 
 
