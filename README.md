@@ -2,7 +2,7 @@
 
 Há dois anos atrás, finalizei um curso de Engenharia Econômica pela plataforma [Veduca](https://play.veduca.org/curso-online-engenharia-economica), onde foi  apresentado os principais métodos de análises de investimentos/projetos do mercado e vários exemplos de suas aplicações.
 
-Então, tive a ideia de apresentar os conhecimentos obtidos no curso em notebooks utilizando Python. Dessa forma, é possível unir o melhor dos mundos entre análise financeira utilizando uma linguagem de programação para análise de dados. 
+Então, tive a ideia de apresentar os conhecimentos obtidos no curso em notebooks utilizando Python. Dessa forma, é possível unir a análise financeira (análise de dado) com uma super linguagem de programação.
 
 Os temas contidos nos notebooks foram divididos de acordo com os capítulos do cursos.Foram utilizados os exemplos tanto do curso quanto de sites externos.
 
@@ -18,5 +18,3 @@ Os temas contidos nos notebooks foram divididos de acordo com os capítulos do c
  8. [Opções Reais](https://github.com/levisouuza/engenharia-economica-python/blob/master/8.Op%C3%A7%C3%B5es%20Reais.ipynb)
  9. [Estimativa de Custo de Capital](https://github.com/levisouuza/engenharia-economica-python/blob/master/9.Estimativa%20do%20custo%20de%20capital.ipynb)
  10. [Estimativa de Custo de Capital II](https://github.com/levisouuza/engenharia-economica-python/blob/master/10.Estimativa%20do%20custo%20de%20capital.ipynb)
-
-
